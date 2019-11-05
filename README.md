@@ -1,5 +1,8 @@
 ## Sample of identified Compact Groups of galaxies in EAGLE RefL100N1504
-## from Harsuiker and Ploeckinger (2019, subm) 
+## from Harsuiker and Ploeckinger (MNRAS, accepted 11/2019) 
+
+The CGs here represent the 'completeness-corrected' sample where the redshift distance
+of all EAGLE snapshots is assumed to be z=0.025 (see paper for details). 
 
 - **column 0:** CG ID 
 - **column 1:** Snapshot number where the CG is identified 
